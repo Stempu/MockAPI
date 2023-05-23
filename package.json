@@ -1,0 +1,19 @@
+{
+  "name": "mockapi",
+  "version": "1.0.0",
+  "description": "MockAPI",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Stempu/MockAPI.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Stempu/MockAPI/issues"
+  },
+  "homepage": "https://github.com/Stempu/MockAPI#readme"
+}
